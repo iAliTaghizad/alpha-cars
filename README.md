@@ -11,21 +11,12 @@
 ---
 
 ## Table of Contents
-- [Demo](#demo)
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
 - [Installation & Run](#installation--run)
 - [Deployment](#deployment)
 - [Learn More](#learn-more)
 - [License](#license)
-
----
-
-## Demo
-
-![Alpha-Cars Screenshot](./screenshots/demo.png)
-
-Check out the live demo: [Your Deployed Project Link](#)
 
 ---
 
